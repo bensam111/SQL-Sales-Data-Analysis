@@ -59,8 +59,9 @@ Understand sales patterns over time
 Clone the repository
 Run the SQL script in SQL Server / MySQL
 Explore queries and results
-📌 Author
 
+
+📌 Author
 Benedict Olabode
 Data Analyst | SQL | Data Analytics
 
