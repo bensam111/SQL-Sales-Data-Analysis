@@ -1,6 +1,3 @@
-# SQL-Sales-Data-Analysis
-SQL Sales Data Analysis project with joins, subqueries, CTEs, window functions, and real business insights
-
 📊 SQL Sales Data Analysis Project
 📌 Overview
 
@@ -39,14 +36,12 @@ Electronics products (e.g., Smart TV, MacBook Air) perform best
 Some products show low sales and may need improvement
 Sales vary across months, with peak performance in February
 Opportunities exist to re-engage inactive customers
-
 📁 Project Structure
 SQL-Sales-Data-Analysis/
 │
 ├── sales_analysis.sql   # Full SQL queries with comments
 ├── report.md           # Business insights and explanations
 └── README.md           # Project overview
-
 🚀 Business Value
 
 This project demonstrates how SQL can be used to:
@@ -59,9 +54,8 @@ Understand sales patterns over time
 Clone the repository
 Run the SQL script in SQL Server / MySQL
 Explore queries and results
-
-
 📌 Author
+
 Benedict Olabode
 Data Analyst | SQL | Data Analytics
 
